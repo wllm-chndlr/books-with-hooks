@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: space-between;
   color: white;
+  margin-bottom: 1rem;
   padding: 0.5rem 1rem;
 }
 
@@ -54,6 +55,7 @@ h1 {
 
 .search-input input {
   display: inline-block;
+  min-height: 2rem;
   width: 50%;
 }
 
